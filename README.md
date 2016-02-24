@@ -2,6 +2,8 @@
 
 Docker image for [Redis Commander](https://github.com/joeferner/redis-commander)
 
+[![Redis Commander Version](https://img.shields.io/badge/redis--commander-0.3.2-green.svg)](https://www.npmjs.com/package/redis-commander)
+
 ## Usage
 
 * Show help
