@@ -1,0 +1,6 @@
+redis-commander:
+  image: higebu/redis-commander:latest
+  hostname: <HOSTNAME>
+  ports:
+    - "8081:8081"
+  command: --redis-host <REDIS_HOST>

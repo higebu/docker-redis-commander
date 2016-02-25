@@ -2,6 +2,8 @@
 
 Docker image for [Redis Commander](https://github.com/joeferner/redis-commander)
 
+[![Deploy to Docker Cloud](https://files.cloud.docker.com/images/deploy-to-dockercloud.svg)](https://cloud.docker.com/stack/deploy/?repo=https://github.com/higebu/docker-redis-commander)
+
 [![Imagelayers](https://badge.imagelayers.io/higebu/redis-commander:latest.svg)](https://imagelayers.io/?images=higebu/redis-commander:latest 'Get your own badge on imagelayers.io')
 
 [![Redis Commander Version](https://img.shields.io/badge/redis--commander-0.3.2-green.svg)](https://www.npmjs.com/package/redis-commander)
